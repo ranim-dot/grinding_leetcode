@@ -17,7 +17,7 @@ Output: false
 I figured out that to be an anagram it needs to have the same chars with the same Frequency so like :
     dict_s={"a":3,"n":1,"g":1,"r":1,"m":1}
 
-So to have an anagram the Dict fro string t have to match the dict_s
+So to have an anagram the Dict for string t have to match the dict_s
 
 # Code 
 
