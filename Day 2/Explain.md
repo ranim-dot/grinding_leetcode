@@ -16,7 +16,9 @@
     Output: Because nums[1] + nums[2] == 6, we return [1, 2].
 
 # The Approach
-    I figured out that to find two numbers whose sum is equal to the target, I can use a dictionary to keep track of the numbers I have seen so far. While iterating through the array, I calculate the difference between the target and the current number. If this difference is already in the dictionary, I have found the pair that adds up to the target.
+    I figured out that to find two numbers whose sum is equal to the target, I can use a dictionary to keep track of the numbers I have seen so far. 
+    While iterating through the array, I calculate the difference between the target and the current number. 
+    If this difference is already in the dictionary, I have found the pair that adds up to the target.
 
 # Code
 
@@ -47,7 +49,9 @@
 2. Iterating through the array nums:
 
     Iteration 1: n = 2, diff = 7 (9 - 2), dic_nums = {}
+   
     Iteration 2: n = 7, diff = 2 (9 - 7), dic_nums = {2: 0}
+   
     Found a match! Return [1, 0].
 
-3. The code successfully identifies the indices of the two numbers in the array that add up to the target.
+4. The code successfully identifies the indices of the two numbers in the array that add up to the target.
