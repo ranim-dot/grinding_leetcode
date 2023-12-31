@@ -1,7 +1,7 @@
 # Grinding Leetcode
 
 ## December 28, 2023
-On Days 2 and 3, I faced some difficulties, but the journey was rewarding as I delved into new concepts. I struggled with [specific concept/problem], but the experience deepened my understanding.
+On Days 2 and 3, I faced some difficulties, but the journey was rewarding as I delved into new concepts. I struggled with Sets, Dictionaries and Slicing , but the experience deepened my understanding.
 
 **Reflective Analysis:**
 - Learned about Dictionary and Sets.
