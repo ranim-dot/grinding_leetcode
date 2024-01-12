@@ -68,3 +68,5 @@ On the first day of the new year, I took on the Sudoku problem, venturing into n
 **Future Goals:**
 - Explore more problems that involve the usage of advanced data structures in Python.
 - Build confidence in handling complex problems that demand a deeper understanding of algorithms and data structures.
+
+## **From january 2nd i took a break so i complete my final exams and i'll be back to grinding the 13rd of january*
