@@ -75,7 +75,7 @@ On the first day of the new year, I took on the Sudoku problem, venturing into n
 
 After a two-week break, I returned to problem-solving, and it felt refreshing to delve back into coding challenges.
 
-## Approach:
+**Thought Process:**
 
 Initially, I misunderstood the problem, interpreting it as requiring the identification of consecutive numbers with a consistent difference, such as 100, 200, 300. However, after contemplating the problem and attempting to solve it based on this misunderstanding, I realized that the true definition of consecutive numbers was those with a difference of 1, like 99, 100, 101.
 
