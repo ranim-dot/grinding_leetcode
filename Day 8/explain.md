@@ -14,7 +14,7 @@ Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefor
 
 # Approach
 
-On day 14, I tackled the "Longest Consecutive Sequence" problem, which involved finding the length of the longest consecutive sequence of elements in an unsorted array. The challenge was to design an algorithm that runs in O(n) time.
+On day 8, I tackled the "Longest Consecutive Sequence" problem, which involved finding the length of the longest consecutive sequence of elements in an unsorted array. The challenge was to design an algorithm that runs in O(n) time.
 
 I approached the problem by first converting the given array `nums` into a set `numsSet` to ensure constant time lookups. I then iterated through the unique elements in the set. For each element, I checked if its predecessor (element - 1) was also present in the set. If not, I iterated through consecutive elements (element + 1, element + 2, ...) until no more consecutive elements were found. I maintained a count of the consecutive elements and updated the maximum length (`maxi`) when a longer sequence was encountered.
 
