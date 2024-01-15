@@ -80,3 +80,7 @@ After a two-week break, I returned to problem-solving, and it felt refreshing to
 Initially, I misunderstood the problem, interpreting it as requiring the identification of consecutive numbers with a consistent difference, such as 100, 200, 300. However, after contemplating the problem and attempting to solve it based on this misunderstanding, I realized that the true definition of consecutive numbers was those with a difference of 1, like 99, 100, 101.
 
 Upon this realization, I adjusted my approach accordingly and successfully solved the problem. It was a valuable learning experience, highlighting the importance of thoroughly understanding the problem statement before attempting to devise a solution.
+
+## 15 Jannuary, 2024
+
+i solved two problems about the concept a Stack that will be shared tomorrow
