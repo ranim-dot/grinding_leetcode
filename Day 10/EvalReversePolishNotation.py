@@ -1,5 +1,4 @@
-class Solution:
-    def evalRPN(self, tokens: List[str]) -> int:
+def evalRPN( tokens):
         stack = []
         operations = set(['+', '-', '*', '/'])
 
