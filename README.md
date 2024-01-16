@@ -94,3 +94,4 @@ The MinStack algorithm is designed to create a stack with standard methods such 
 The concept of ValidParentheses is akin to one of my recent algorithms.
 
 As for the Evaluation of Reverse Polish Notation, it's a novel concept for me, as I had not encountered it before, but solving it proved to be straightforward.
+![https://upload.wikimedia.org/wikipedia/commons/c/ca/Reverse_Polish_Notation_Stack_Example.jpg](https://)
