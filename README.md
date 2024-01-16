@@ -83,4 +83,13 @@ Upon this realization, I adjusted my approach accordingly and successfully solve
 
 ## 15 Jannuary, 2024
 
-i solved two problems about the concept a Stack that will be shared tomorrow
+I solved two problems about the concept of Stack that will be shared tomorrow
+
+## 16 jannuary, 2024
+
+**Explanation of Code**
+The MinStack algorithm is designed to create a stack with standard methods such as pop, push, and top, while also incorporating the capability to retrieve the minimum element in the stack. The challenge was to maintain a time complexity of O(1).
+
+The concept of ValidParentheses is akin to one of my recent algorithms.
+
+As for the Evaluation of Reverse Polish Notation, it's a novel concept for me, as I had not encountered it before, but solving it proved to be straightforward.
