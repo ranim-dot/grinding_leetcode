@@ -99,3 +99,14 @@ the concept of RPN :
 
 ![Reverse_Polish_Notation_Stack_Example](https://github.com/ranim-dot/grinding_leetcode/assets/69695069/bdff695d-480d-4e7c-a375-dbf9c3f89239)
 
+## January 17, 2024
+
+**Approach:**
+Initially, solving this problem proved time-consuming as understanding the conditions took a considerable amount of time. However, the implementation became challenging, prompting me to seek additional resources. It became evident that the solution required the application of a concept called "Backtracking."
+
+**Confusion:**
+I had not delved into the realm of backtracking in my studies. Its algorithms prove useful in various scenarios, particularly when dealing with problems that require finding combinations, such as the one I was tackling. Backtracking operates on the principle of recursion.
+
+**Future Goals:**
+My upcoming objectives involve acquiring a deeper understanding of backtracking. I aim to explore its algorithms further and grasp its applications, especially in problem-solving scenarios that demand the generation of combinations.
+
