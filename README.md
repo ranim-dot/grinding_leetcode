@@ -1,6 +1,6 @@
 # Grinding Leetcode
 
-## Just for clarifation :
+## Just for clarification :
 **`The folder names represents the number of the problem solved`**
 
 ## December 28, 2023
