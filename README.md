@@ -1,7 +1,7 @@
 # Grinding Leetcode
 
 ## Just for clarification :
-### **`The folder names represents the number of the problem solved`**
+### **`The folder names represents the numeric code of the problem solved`**
 
 ## December 28, 2023
 On Days 2 and 3, I faced some difficulties, but the journey was rewarding as I delved into new concepts. I struggled with Sets, Dictionaries, and Slicing, but the experience deepened my understanding.
