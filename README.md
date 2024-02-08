@@ -116,3 +116,9 @@ I had not delved into the realm of backtracking in my studies. Its algorithms pr
 
 My upcoming objectives involve acquiring a deeper understanding of backtracking. I aim to explore its algorithms further and grasp its applications, especially in problem-solving scenarios that demand the generation of combinations.
 
+
+## February 8 , 2024
+
+**Challenges:**
+
+struggling on a binary search problem for two days now :)
