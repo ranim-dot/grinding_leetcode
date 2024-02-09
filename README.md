@@ -122,3 +122,9 @@ My upcoming objectives involve acquiring a deeper understanding of backtracking.
 **Challenges:**
 
 struggling on a binary search problem for two days now :)
+
+## February 9 , 2024
+
+**Challenges:**
+
+binary search problems are pain in the ass
